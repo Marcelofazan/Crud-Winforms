@@ -9,7 +9,7 @@ Exemplo de criação de CRUD em Windows Form C# com banco de dados MySQL.
 #### Execução da aplicação
 - Para executar a aplicação é necessário a execução do Script do MySQL.
 
-#### ⚠️ String de conexão do banco
+#### String de conexão do banco
 Modifique a string de conexão no arquivo **app.config**, no trecho indicado:
 
 ```bash
